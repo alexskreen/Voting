@@ -11,5 +11,6 @@ $(document).ready(function()  {
   else {
     alert("I applaud your political aspirations but you're not quite there yet!");
     $('#underage').show();
+    $('#samplepicture').show();
   }
 });
